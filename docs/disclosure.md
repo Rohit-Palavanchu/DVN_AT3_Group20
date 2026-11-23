@@ -15,4 +15,7 @@ We used Claude (Anthropic), a large language model, during this project. Its use
 
 Every number shown in the app is computed from the Eurostat files, not produced by the AI. Each member checked at least one displayed value against the raw CSV and recorded that check in the provenance matrix.
 
-TO FILL: each member adds one sentence on what they changed, checked or wrote themselves.
+- Rohit Palavanchu: owned the Firm size page and the data cleaning script, set up the GitHub repository and deployment, and checked the large-firm figure against the raw Eurostat file.
+- Mohan Krishna: owned the home page and EU trend page.
+- Rohan Stanislaus: extended the Industries page with filters, four chart views and a heatmap, and checked industry values against Eurostat.
+- Brandon: built the Countries page and four automated data tests, and traced Belgium's values against Eurostat.
