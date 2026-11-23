@@ -15,7 +15,7 @@ Licence for both sources: Eurostat data may be reused free of charge with the so
 | Publisher | Eurostat |
 | URL | https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table |
 | Format | Linear CSV with labels, full dataset, from the Eurostat data browser (72,527 rows) |
-| Downloaded | TO FILL (date) |
+| Downloaded | 25 OCT |
 | Eurostat last update | 15 June 2026 (`LAST UPDATE` = 15/06/26 11:00:00) |
 | Primary key | `freq`, `size_emp`, `nace_r2`, `indic_is`, `unit`, `geo`, `TIME_PERIOD` |
 | Time coverage | Survey years 2021, 2023, 2024, 2025 (no 2022 survey of this indicator) |
